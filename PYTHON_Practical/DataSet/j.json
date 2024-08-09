@@ -1,0 +1,37 @@
+[
+    {
+        "Roll No" : 201,
+        "First Name" : "Keyuri",
+        "Last Name" : "Patel",
+        "Gender" : "female",
+        "Age" : 21
+    },
+    {
+        "Roll No" : 202,
+        "First Name" : "Yashvi",
+        "Last Name" : "Joshi",
+        "Gender" : "female",            
+        "Age" : 20
+    },
+    {
+        "Roll No" : 203,
+        "First Name" : "Jainil",
+        "Last Name" : "Patel",
+        "Gender" : "male",
+        "Age": 23
+    },
+    {
+        "Roll No" : 204,
+        "First Name" : "Prey",
+        "Last Name" : "Patel",
+        "Gender" : "male",
+        "Age" : 22
+    },
+    {
+        "Roll No" : 205,
+        "First Name" : "Richi",
+        "Last Name" : "Patel",
+        "Gender" : "female",
+        "Age" : 25
+    }
+]
