@@ -1,9 +1,0 @@
-Example of create files using python and use of read and write mode
-
-Example of appende mode
-
-UTF : Unicode Transformation Format
-ગુજરાત વિદ્યાપીઠ
-કમ્પ્યુટર વિજ્ઞાન વિભાગ
-
-Example of appende mode
