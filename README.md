@@ -1,4 +1,8 @@
 # Documantation | Pyhton
+- For download python : `pip install python`
+- For install Jupyter notebook : `pip install notebook`
+- For open Jupyter notebook : `python -m notebook`
+	
 1. Introduction
 2. Flow Control
 3. Function
