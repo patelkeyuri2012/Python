@@ -23,4 +23,4 @@
 12. Matplotlib
 
 > [!TIP]
-> - For download python : download exe file according to your OS from this link (https://www.python.org/downloads/windows/)
+> - For download python : download exe file of Python according to your OS from this link (https://www.python.org/downloads/windows/)
