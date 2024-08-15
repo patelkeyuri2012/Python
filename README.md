@@ -18,4 +18,5 @@
 11. MatchDataFrame
 12. Matplotlib
 
-- For download python : download exe file of Python according to your OS from this link (https://www.python.org/downloads/windows/)
+- For download python :
+  - Download exe file of Python according to your OS from following link (https://www.python.org/downloads/windows/)
