@@ -1,5 +1,6 @@
 # Documantation | Pyhton
-- For download python : `pip install python`
+- For download python : download exe file according to your OS from this link `https://www.python.org/downloads/windows/`
+- For install python : `pip install python`
 - For install Jupyter notebook : `pip install notebook`
 - For open Jupyter notebook : `python -m notebook`
 	
