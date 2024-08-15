@@ -1,13 +1,9 @@
 # Documantation | Pyhton
 
 - For execute the file, you must be need python and jupyter notebook
-
-> [!IMPORTANT]
-> - For install python : `pip install python`
-
-> [!NOTE]
-> - For install Jupyter notebook : `pip install notebook`
-> - For open Jupyter notebook : `python -m notebook`
+- For install python : `pip install python`
+- For install Jupyter notebook : `pip install notebook`
+- For open Jupyter notebook : `python -m notebook`
 
 1. Introduction
 2. Flow Control
@@ -22,5 +18,4 @@
 11. MatchDataFrame
 12. Matplotlib
 
-> [!TIP]
-> - For download python : download exe file of Python according to your OS from this link (https://www.python.org/downloads/windows/)
+- For download python : download exe file of Python according to your OS from this link (https://www.python.org/downloads/windows/)
