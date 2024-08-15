@@ -1,6 +1,6 @@
 # Documantation | Pyhton
-> [!TIP]
-> - For download python : download exe file according to your OS from this link (https://www.python.org/downloads/windows/)
+
+- For execute the file, you must be need python and jupyter notebook
 
 > [!IMPORTANT]
 > - For install python : `pip install python`
@@ -21,3 +21,6 @@
 10. ItemDataFrame
 11. MatchDataFrame
 12. Matplotlib
+
+> [!TIP]
+> - For download python : download exe file according to your OS from this link (https://www.python.org/downloads/windows/)
